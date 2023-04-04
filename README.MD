@@ -1,6 +1,6 @@
 IRadioRu 0.1
 ====
-Parser Pl Internet Radio
+Parser Internet Radio RU
 ----
 >
 >
