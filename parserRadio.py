@@ -19,7 +19,6 @@ try:
         for a_tag in soup.findAll("a"):
             href = a_tag.attrs.get("href")
             if href == "" or href is None:
-                # href пустой тег
                 continue
             a = str(a_tag)
             if a.find('.aacp') > 0: 
