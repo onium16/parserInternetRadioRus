@@ -4,5 +4,5 @@ https://docs.juniper.bot
 After all found links are saved in *.m3u file, adding it to your player. You can listen to internet stations.
 
 Thanks to the guys for a great playlist.
-author: SergioK
+author: SeriouS
 email: onium16@gmail.com
